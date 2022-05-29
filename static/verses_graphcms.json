@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "verse-1",
+    "verseId": "1",
+    "paliDevanagariVerse": "सोपि भगवा अरहं,\nसम्मासम्बुद्धो सयम्भू;\nविज्‍जाचरणसम्पन्‍नो,\nबुद्धं तं पणमाम्यहं.",
+    "paliRomanVerse": "Sopi bhagavā arahaṃ,\nSammāsambuddho sayambhū;\nVijjācaraṇasampanno,\nBuddhaṃ taṃ paṇamāmyahaṃ.",
+    "englishVerse": "I bow to the Buddha, \nTo Him, who was freed from all impurities, the Worthy One, \nEnlightened by his own efforts, Lord of oneself,\nPerfect in theory and practice.",
+    "vocabularyWords": [
+      {
+        "id": "cl0j3xzkgv89h0bljv27aiyxd",
+        "word": "bhagavā",
+        "definition": "freed from all impurities",
+        "etymology": ""
+      },
+      {
+        "id": "cl0j3yvhqvit50alj1457ptc6",
+        "word": "arahaṃ",
+        "definition": "the Worthy One, sanctified",
+        "etymology": null
+      },
+      {
+        "id": "cl0j416lwvhkr09n0ot9db5i8",
+        "word": "sammāsambuddho",
+        "definition": "enlightened by his own efforts",
+        "etymology": null
+      },
+      {
+        "id": "cl0j41iyov9dq0elj9v3lkaqt",
+        "word": "sayambhū",
+        "definition": "Lord of oneself",
+        "etymology": null
+      },
+      {
+        "id": "cl0j42kbzv9k40elj019ih3y3",
+        "word": "vijjācaraṇasampanno",
+        "definition": "perfect in theory and practice",
+        "etymology": "vijjā + caraṇa + sampanno - wisdom + practise + being endowed"
+      },
+      {
+        "id": "cl0j433oyvhvm09n0hkdw2z6k",
+        "word": "paṇamati",
+        "definition": "to bend, bow",
+        "etymology": null
+      },
+      {
+        "id": "cl0j45ypqv9bb0bljd8z4aj4a",
+        "word": "paṇamāmyahaṃ",
+        "definition": "bent + I",
+        "etymology": "paṇamāmi + ahaṃ"
+      }
+    ],
+    "audioUrl": "https://learning.pariyatti.org/pluginfile.php/5772/mod_page/content/52/verse_1.mp3",
+    "quizletUrl": "https://quizlet.com/191531408/flashcards/embed",
+    "pdfFlashcards": "www.testflashcardurl.com"
+  },
+  {
+    "slug": "verse-2",
+    "verseId": "2",
+    "paliDevanagariVerse": "पुरिसदम्मसारथी,\nलोकविदू अनुत्तरो;\nसत्थादेवमनुस्सानं,\nबुद्धं तं पणमाम्यहं.",
+    "paliRomanVerse": "Purisadammasārathī,\nLokavidū anuttaro;\nSatthādevamanussānaṃ,\nBuddhaṃ taṃ paṇamāmyahaṃ.\n",
+    "englishVerse": "I bow to the Buddha,\nTrainer of men,\nIncomparable knower of all the worlds,\nTeacher of gods and men alike.",
+    "vocabularyWords": [
+      {
+        "id": "cl1bclw17idgu0clm2b63wdm1",
+        "word": "lokavidū anuttaro",
+        "definition": "incomparable knower of all the worlds",
+        "etymology": "loka + vidū + anuttaro world/universe + knowing + incomparable/unrivalled"
+      },
+      {
+        "id": "cl1bcmwgficxu0cn1qnh6uyti",
+        "word": "vsatthā devamanussānaṃ",
+        "definition": "teacher of gods and men alike",
+        "etymology": null
+      }
+    ],
+    "audioUrl": "https://learning.pariyatti.org/pluginfile.php/5807/mod_page/content/8/verse_2.mp3",
+    "quizletUrl": "https://quizlet.com/193190108/flashcards/embed",
+    "pdfFlashcards": null
+  }
+]
