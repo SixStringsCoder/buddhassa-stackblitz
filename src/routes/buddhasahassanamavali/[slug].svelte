@@ -14,8 +14,8 @@
 
 
 <script>
-  import versesJSON from '../../../static/verses.json'
-  import wordsJSON from '../../../static/words.json'
+  import versesJSON from './data/verses.json'
+  import wordsJSON from './data/words.json'
   import ModalVocab from './ModalVocab.svelte'
   import SearchVerses from './SearchVerses.svelte'
   import VerseInput from './VerseInput.svelte'

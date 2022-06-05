@@ -1,24 +1,22 @@
-import versesJSON from '../../../static/verses.json';
+import versesJSON from './data/verses.json';
 
-export async function get({params}) {
-  const verse = versesJSON.find(verse => verse.slug === params.slug)
-  
+export async function get({ params }) {
+  const verse = versesJSON.find((verse) => verse.slug === params.slug);
+
   return {
     status: 200,
     body: {
       verse,
-      params
-    }
-  }
-  
+      params,
+    },
+  };
 }
-
 
 // Use this for API call to GraphCMS
 // import { GraphQLClient } from 'graphql-request';
 
 // export async function get({params}) {
-  
+
 //   const graphcmsClient = new GraphQLClient(
 //     `${import.meta.env.VITE_GRAPHCMS_ENDPOINT}`,
 //     { headers: {} }
@@ -62,10 +60,6 @@ export async function get({params}) {
 //   }
 // }
 
-
-
-
-
 // Use this to fetch all Verses from GraphCMS
 // const { verses } = await graphcmsClient.request(
 //   `query VersesIndex {
@@ -76,7 +70,7 @@ export async function get({params}) {
 //       paliRomanVerse
 //       englishVerse
 //       vocabularyWords {
-//         id   
+//         id
 //         word
 //         definition
 //         etymology
