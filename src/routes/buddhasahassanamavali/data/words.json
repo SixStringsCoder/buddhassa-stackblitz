@@ -1,5 +1,425 @@
 [
   {
+    "wordId": "laddho",
+    "word": "laddho",
+    "meaning": "attained, reached, received",
+    "formation": "(abs. of labhati)"
+  }, 
+  {
+    "wordId": "attha",
+    "word": "attha",
+    "meaning": "meaning",
+    "formation": ""
+  }, 
+  {
+    "wordId": "mutti",
+    "word": "mutti",
+    "meaning": "liberation",
+    "formation": ""
+  }, 
+  {
+    "wordId": "tatha",
+    "word": "tatha",
+    "meaning": "truth, reality",
+    "formation": ""
+  }, 
+  {
+    "wordId": "timsa-parami",
+    "word": "tiṃsa + pāramī",
+    "meaning": "thirty + pāramitas",
+    "formation": "thirty + pāramitas"
+  }, 
+  {
+    "wordId": "santi",
+    "word": "santi",
+    "meaning": "peace",
+    "formation": ""
+  }, 
+  {
+    "wordId": "khanti",
+    "word": "khanti",
+    "meaning": "tolerance",
+    "formation": ""
+  }, 
+  {
+    "wordId": "kanti",
+    "word": "kanti",
+    "meaning": "beauty, pleasure",
+    "formation": ""
+  }, 
+  {
+    "wordId": "yaso",
+    "word": "yaso",
+    "meaning": "reknown, fame, glory",
+    "formation": ""
+  }, 
+  {
+    "wordId": "ditti",
+    "word": "ditti",
+    "meaning": "splendour, radiance",
+    "formation": ""
+  }, 
+  {
+    "wordId": "kitti",
+    "word": "kitti",
+    "meaning": "fame",
+    "formation": ""
+  }, 
+  {
+    "wordId": "suddhiladdho",
+    "word": "suddhiladdho",
+    "meaning": "achieved purity",
+    "formation": ""
+  }, 
+  {
+    "wordId": "buddhiladdho",
+    "word": "buddhiladdho",
+    "meaning": "achieved intellect",
+    "formation": ""
+  }, 
+  {
+    "wordId": "iddhiladdho",
+    "word": "iddhiladdho",
+    "meaning": "attained psychic powers",
+    "formation": ""
+  }, 
+  {
+    "wordId": "laddhanidhi",
+    "word": "laddhanidhi",
+    "meaning": "gained all treasures",
+    "formation": ""
+  }, 
+  {
+    "wordId": "upaladdhachaḷabhinno",
+    "word": "upaladdhachaḷabhiñño",
+    "meaning": "acquired the sixfold special kinds of knowledge",
+    "formation": ""
+  }, 
+  {
+    "wordId": "tira",
+    "word": "tīra",
+    "meaning": "shore",
+    "formation": ""
+  }, 
+  {
+    "wordId": "sara",
+    "word": "sāra",
+    "meaning": "essence",
+    "formation": ""
+  }, 
+  {
+    "wordId": "mangalamuttamam",
+    "word": "maṅgalamuttamaṃ",
+    "meaning": "welfare + highest",
+    "formation": "maṅgala + m + uttamaṃ"
+  }, 
+  {
+    "wordId": "dassi",
+    "word": "dassī",
+    "meaning": "one who sees",
+    "formation": ""
+  }, 
+  {
+    "wordId": "dura",
+    "word": "dūra",
+    "meaning": " far",
+    "formation": ""
+  }, 
+  {
+    "wordId": "digha",
+    "word": "dīgha",
+    "meaning": "long",
+    "formation": ""
+  }, 
+  {
+    "wordId": "bhavantagu",
+    "word": "bhavantagū",
+    "meaning": "becoming + end + going, gone, perfected",
+    "formation": "bhava + anta + gū"
+  }, 
+  {
+    "wordId": "siva",
+    "word": "siva",
+    "meaning": "shelter, auspicious, safety",
+    "formation": ""
+  }, 
+  {
+    "wordId": "yoga",
+    "word": "yoga",
+    "meaning": "yoke, bond, attachment",
+    "formation": ""
+  }, 
+  {
+    "wordId": "khema",
+    "word": "khema",
+    "meaning": "security",
+    "formation": ""
+  }, 
+  {
+    "wordId": "pariyanta",
+    "word": "pariyanta",
+    "meaning": "beyond + end",
+    "formation": "pari + y + anta"
+  }, 
+  {
+    "wordId": "isi",
+    "word": "isī",
+    "meaning": "seer",
+    "formation": ""
+  }, 
+  {
+    "wordId": "anoma",
+    "word": "anoma",
+    "meaning": "superior, supreme",
+    "formation": ""
+  }, 
+  {
+    "wordId": "passi",
+    "word": "passi",
+    "meaning": "saw, understood",
+    "formation": "aor. of passati "
+  }, 
+  {
+    "wordId": "parama",
+    "word": "parama",
+    "meaning": "excellent, best, highest",
+    "formation": ""
+  }, 
+  {
+    "wordId": "vanto",
+    "word": "vanto",
+    "meaning": "discharge, eject (vomit) ",
+    "formation": "pp. of vamati"
+  }, 
+  {
+    "wordId": "sunnanava",
+    "word": "suññāṇavā",
+    "meaning": "well + knowledge",
+    "formation": "su + ñ + ñāṇa + vā"
+  }, 
+  {
+    "wordId": "ketu",
+    "word": "ketu",
+    "meaning": "flag",
+    "formation": ""
+  }, 
+  {
+    "wordId": "dhajo",
+    "word": "dhajo",
+    "meaning": "flag, banner",
+    "formation": ""
+  }, 
+  {
+    "wordId": "vanna",
+    "word": "vaṇṇa",
+    "meaning": "appearance, caste, expression",
+    "formation": ""
+  }, 
+  {
+    "wordId": "guna",
+    "word": "guṇa",
+    "meaning": "virtue, quality",
+    "formation": ""
+  }, 
+  {
+    "wordId": "jutindharo",
+    "word": "jutindharo",
+    "meaning": "radiance + bearing, possessing",
+    "formation": "juti + n + dharo"
+  }, 
+  {
+    "wordId": "yasa",
+    "word": "yasa",
+    "meaning": "renown, fame",
+    "formation": ""
+  }, 
+  {
+    "wordId": "kitti",
+    "word": "kitti",
+    "meaning": "reknown, fame",
+    "formation": ""
+  }, 
+  {
+    "wordId": "mati",
+    "word": "mati",
+    "meaning": "intelligence, understanding",
+    "formation": ""
+  }, 
+  {
+    "wordId": "yati",
+    "word": "yati",
+    "meaning": "(pp. of yatati) strive, endeavour",
+    "formation": ""
+  }, 
+  {
+    "wordId": "medhavi",
+    "word": "medhāvi",
+    "meaning": "wise",
+    "formation": ""
+  }, 
+  {
+    "wordId": "patapa",
+    "word": "patāpa",
+    "meaning": "majesty, splendor",
+    "formation": ""
+  }, 
+  {
+    "wordId": "dhi",
+    "word": "dhī",
+    "meaning": "knowledge, wisdom",
+    "formation": ""
+  }, 
+  {
+    "wordId": "patibhana",
+    "word": "paṭibhāna",
+    "meaning": "back, against + speech (readiness in reply)",
+    "formation": "paṭi + bhāna"
+  }, 
+  {
+    "wordId": "vidu",
+    "word": "vidū",
+    "meaning": "wise",
+    "formation": ""
+  }, 
+  {
+    "wordId": "hiri",
+    "word": "hiri",
+    "meaning": "shame",
+    "formation": ""
+  }, 
+  {
+    "wordId": "siri",
+    "word": "siri",
+    "meaning": "glory",
+    "formation": ""
+  }, 
+  {
+    "wordId": "vara",
+    "word": "vara",
+    "meaning": "excellent, noble",
+    "formation": ""
+  }, 
+  {
+    "wordId": "jino",
+    "word": "jino",
+    "meaning": "victorious",
+    "formation": ""
+  }, 
+  {
+    "wordId": "uttamo",
+    "word": "uttamo",
+    "meaning": "highest, peak, acme",
+    "formation": ""
+  }, 
+  {
+    "wordId": "accuttamo",
+    "word": "accuttamo",
+    "meaning": "ati + uttamo over + highest",
+    "formation": ""
+  }, 
+  {
+    "wordId": "satta",
+    "word": "satta",
+    "meaning": "being",
+    "formation": ""
+  }, 
+  {
+    "wordId": "khina",
+    "word": "khīṇa",
+    "meaning": " exhausted, destroyed",
+    "formation": ""
+  }, 
+  {
+    "wordId": "pariḷaho",
+    "word": "pariḷāho",
+    "meaning": "burning, fever, distress",
+    "formation": ""
+  }, 
+  {
+    "wordId": "yutto",
+    "word": "yutto",
+    "meaning": "yoked, connected",
+    "formation": ""
+  }, 
+  {
+    "wordId": "khetto",
+    "word": "khetto",
+    "meaning": "field, soil of merit peace",
+    "formation": ""
+  }, 
+  {
+    "wordId": "thano",
+    "word": "ṭhāno",
+    "meaning": "location, place, condition",
+    "formation": ""
+  }, 
+  {
+    "wordId": "vajra",
+    "word": "vajra",
+    "meaning": "thunderbolt, diamond",
+    "formation": ""
+  }, 
+  {
+    "wordId": "bodha",
+    "word": "bodha",
+    "meaning": "enlightenment, knowledge",
+    "formation": ""
+  }, 
+  {
+    "wordId": "parayano",
+    "word": "parāyaṇo",
+    "meaning": "rest, shelter, support",
+    "formation": ""
+  }, 
+  {
+    "wordId": "siddho",
+    "word": "siddho",
+    "meaning": "accomplished, sucessful",
+    "formation": "(pp. of sijjhati)"
+  }, 
+  {
+    "wordId": "nasa",
+    "word": "nāsa",
+    "meaning": "destruction agonies",
+    "formation": ""
+  }, 
+  {
+    "wordId": "sokaparidevakkhayo",
+    "word": "sokaparidevakkhayo",
+    "meaning": "grief + lamentation + decay, destruction",
+    "formation": "soka + parideva + k + khayo"
+  }, 
+  {
+    "wordId": "jatimaccujaratigo",
+    "word": "jātimaccujarātigo",
+    "meaning": "birth + death + old age + overcoming, surmounting",
+    "formation": "jāti + maccu + jara + ātiga (pp. of atigacchati)"
+  }, 
+  {
+    "wordId": "atigacchati",
+    "word": "atigacchati",
+    "meaning": " overcome, surpass",
+    "formation": ""
+  }, 
+  {
+    "wordId": "sabbarajabhogacagi",
+    "word": "sabbarājabhogacāgī",
+    "meaning": "all + king + possession, wealth + giving away",
+    "formation": "sabba + rāja + bhoga + cāgī"
+  }, 
+  {
+    "wordId": "maha-oghamummujjako",
+    "word": "mahā-oghamummujjako",
+    "meaning": "great + flood + distraction + letting go, giving up",
+    "formation": "mahā + oghaṃ + ummāda + ujjako"
+  }, 
+  {
+    "wordId": "paramatthadhammadassi",
+    "word": "paramatthadhammadassī",
+    "meaning": "ultimate + Dhamma + seeing, showing",
+    "formation": "paramattha + Dhamma + dassī"
+  },
+  {
     "wordId": "abhabbo",
     "word": "abhabbo",
     "meaning": "incapable",
@@ -12,8 +432,8 @@
     "formation": ""
   }, 
   {
-    "wordId": "antalikkhe.",
-    "word": "antalikkhe.",
+    "wordId": "antalikkhe",
+    "word": "antalikkhe",
     "meaning": "celestial (the sky)",
     "formation": ""
   }, 
@@ -44,7 +464,7 @@
   {
     "wordId": "atthamamadiyanti",
     "word": "aṭṭhamamādiyanti",
-    "meaning": "eighth+take ",
+    "meaning": "eighth+take",
     "formation": "aṭṭhamaṃ+ādiyanti"
   }, 
   {
@@ -62,7 +482,7 @@
   {
     "wordId": "aviruḷhichanda",
     "word": "avirūḷhichandā",
-    "meaning": "cessation of growth of cravings ",
+    "meaning": "cessation of growth of cravings",
     "formation": "avirūḷhi+chandā"
   }, 
   {
@@ -78,9 +498,9 @@
     "formation": ""
   }, 
   {
-    "wordId": "bhasitam.",
-    "word": "bhāsitaṃ.",
-    "meaning": "that which is spoken ",
+    "wordId": "bhasitam",
+    "word": "bhāsitaṃ",
+    "meaning": "that which is spoken",
     "formation": ""
   }, 
   {
@@ -122,7 +542,7 @@
   {
     "wordId": "chaccabhithanani",
     "word": "chaccābhiṭhānāni",
-    "meaning": "six heinous crimes ",
+    "meaning": "six heinous crimes",
     "formation": "cha+ca+abhiṭhānāni"
   }, 
   {
@@ -158,13 +578,13 @@
   {
     "wordId": "gambhirapannena",
     "word": "gambhīrapaññena",
-    "meaning": "deep wisdom ",
+    "meaning": "deep wisdom",
     "formation": "gambhīra+paññena"
   }, 
   {
     "wordId": "gimhanamase",
     "word": "gimhānamāse",
-    "meaning": "in the summer month ",
+    "meaning": "in the summer month",
     "formation": "gimhāna+māse"
   }, 
   {
@@ -204,8 +624,8 @@
     "formation": ""
   }, 
   {
-    "wordId": "katum.",
-    "word": "kātuṃ.",
+    "wordId": "katum",
+    "word": "kātuṃ",
     "meaning": "doing, to do",
     "formation": ""
   }, 
@@ -230,7 +650,7 @@
   {
     "wordId": "khippamantaradhapesi",
     "word": "khippamantaradhāpesi",
-    "meaning": "quickly caused to disappear ",
+    "meaning": "quickly caused to disappear",
     "formation": "khippaṃ+antaradhāpesi"
   }, 
   {
@@ -312,8 +732,8 @@
     "formation": ""
   }, 
   {
-    "wordId": "panitam.",
-    "word": "paṇītaṃ.",
+    "wordId": "panitam",
+    "word": "paṇītaṃ",
     "meaning": "excellent, precious",
     "formation": ""
   }, 
@@ -380,7 +800,7 @@
   {
     "wordId": "sahavassa",
     "word": "sahāvassa",
-    "meaning": "simultaneously with ",
+    "meaning": "simultaneously with",
     "formation": ""
   }, 
   {
@@ -398,7 +818,7 @@
   {
     "wordId": "sakyamuni",
     "word": "sakyamunī",
-    "meaning": "sakyan sage ",
+    "meaning": "sakyan sage",
     "formation": "sakya+munī"
   }, 
   {
@@ -440,7 +860,7 @@
   {
     "wordId": "silabbatam",
     "word": "sīlabbataṃ",
-    "meaning": "rites and rituals ",
+    "meaning": "rites and rituals",
     "formation": "sīla+vata"
   }, 
   {
@@ -470,7 +890,7 @@
   {
     "wordId": "suppayutta",
     "word": "suppayuttā",
-    "meaning": "who engage themselves ",
+    "meaning": "who engage themselves",
     "formation": ""
   }, 
   {
@@ -584,19 +1004,19 @@
   {
     "wordId": "yanidha",
     "word": "yānīdha",
-    "meaning": "whatever + here ",
+    "meaning": "whatever + here",
     "formation": "yāni + idha"
   }, 
   {
     "wordId": "yassanam",
     "word": "yassāṇaṃ",
-    "meaning": "whose + command ",
+    "meaning": "whose + command",
     "formation": "yassa + āṇaṃ"
   }, 
   {
     "wordId": "yathindakhilo",
     "word": "yathindakhīlo",
-    "meaning": "just as + Indra + pillar ",
+    "meaning": "just as + Indra + pillar",
     "formation": "yathā + inda + khīlo"
   }, 
   {
@@ -824,7 +1244,7 @@
   {
     "wordId": "kulesvananugiddho",
     "word": "kulesvananugiddho",
-    "meaning": "towards families+not greedy ",
+    "meaning": "towards families+not greedy",
     "formation": "kulesu+anu+gijjhati"
   }, 
   {
@@ -2672,7 +3092,7 @@
   {
     "wordId": "karotha",
     "word": "karotha",
-    "meaning": "imp. you (pl.) should make ",
+    "meaning": "imp. you (pl.) should make",
     "formation": ""
   }, 
   {
@@ -4082,7 +4502,7 @@
   {
     "wordId": "mahanandisamucchinno",
     "word": "mahānandīsamucchinno",
-    "meaning": "completely eradicated all craving ",
+    "meaning": "completely eradicated all craving",
     "formation": "(mahā+nandī+samucchinno: (pp. of samucchindati) great+rejoicing+extirpate)"
   },
   {
@@ -4448,7 +4868,7 @@
   {
     "wordId": "dhammasaranamanusasi",
     "word": "dhammasaraṇamanusāsi",
-    "meaning": "taught to take refuge in Dhamma.",
+    "meaning": "taught to take refuge in Dhamma",
     "formation": ""
   },
   {
@@ -4496,7 +4916,7 @@
   {
     "wordId": "sabbaneyyadhammam",
     "word": "sabbañeyyadhammaṃ",
-    "meaning": "the entity of Dhamma ",
+    "meaning": "the entity of Dhamma",
     "formation": "(sabba + ñeyya + dhammaṃ - all + what should be known + Dhamma)"
   },
   {
@@ -6974,7 +7394,7 @@
   {
     "wordId": "hiri",
     "word": "hiri",
-    "meaning": "sense of shame, conscientious, restraint, moral appreciation.",
+    "meaning": "sense of shame, conscientious, restraint, moral appreciation",
     "formation": ""
   },
   {
